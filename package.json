@@ -1,0 +1,9 @@
+{
+  "name": "Void",
+  "version": "1.0.2",
+  "main": "Void.js",
+  "dependencies": {
+    "Validator": "aleclarson/Validator#1.2.0",
+    "wrongType": "aleclarson/wrongType#1.0.1"
+  }
+}
